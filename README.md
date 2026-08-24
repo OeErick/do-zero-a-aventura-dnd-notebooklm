@@ -1,6 +1,6 @@
 # 🎲 Do Zero à Aventura: Guia Prático para Criar sua Primeira Ficha de D&D
 
-> Caderno temático desenvolvido com apoio do NotebookLM para auxiliar jogadores iniciantes a compreender e preencher sua primeira ficha de personagem de Dungeons & Dragons.
+Caderno temático desenvolvido com apoio do NotebookLM para auxiliar jogadores iniciantes a compreender e preencher sua primeira ficha de personagem de Dungeons & Dragons.
 
 ---
 
